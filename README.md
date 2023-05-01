@@ -16,4 +16,4 @@ Project #3
 
 http://eve.kean.edu/~reidsc/pythontranslator.py
 
-Description: This program was created to give users the ability to have a quick and easy translator that also allows them have full conversations with someone if both parties don't speak the same langauge using Google Translate. 
+Description: This program was created to give users the ability to have a quick and easy translator that also allows for full back and forth conversations with someone if both parties don't speak the same langauge using google translate and speech recognition. 
